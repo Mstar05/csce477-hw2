@@ -1,0 +1,1 @@
+{"name":"juice-login-lab","version":"1.0.0","private":true,"type":"module","description":"Local educational login form with client and server validation","engines":{"node":">=24 <25"},"scripts":{"setup":"node setup.mjs","start":"node server.mjs","test":"node --test"}}
